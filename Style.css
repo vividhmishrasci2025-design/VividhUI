@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-item: center;
+}
+
+#Mainimg{
+    height: 100px;
+    border-radius: 30px;
+}
+
+#Title{
+    font-size: 34px;
+    font-family: Times New Roman, Times, serif;
+    color: cyan;
+}
+
+#Abouthead{
+    font-size: 24px;
+}
+
+.project{
+    display: flex; 
+    justify-content: space-evenly;
+    margin:4px;    
+}
+
+.Img{
+    width: 48%;
+    height: 300px;
+}
+
+.a{
+    font-size: 18px;
+}
+
+.td{
+    font-size: 12px;
+}
